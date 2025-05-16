@@ -1,1 +1,0 @@
-// Placeholder for entry_layout.js – please replace with original from SurVis GitHub.

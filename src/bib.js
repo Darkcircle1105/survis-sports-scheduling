@@ -1,1 +1,0 @@
-// Placeholder for bib.js – please replace with original from SurVis GitHub.
